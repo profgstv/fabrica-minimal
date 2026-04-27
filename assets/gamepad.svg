@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="gamepad.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.44375"
+     inkscape:cx="40.56338"
+     inkscape:cy="255.77465"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M 520.80986,256.03137 320.03137,55.252878 c -55.46506,-55.46505354 -145.31343,-55.46505637 -200.77849,4e-6 -55.465056,55.465058 -55.465053,145.313428 0,200.778488 28.10899,28.10898 65.00204,41.91251 101.7696,41.53605 l 57.4101,57.4101 c -0.37646,36.76756 13.4898,73.72335 41.53605,101.76959 55.46506,55.46506 145.31343,55.46507 200.77849,10e-6 55.46505,-55.46507 55.5278,-145.25069 0.0627,-200.71575 z M 267.32702,228.42433 c -4.14106,4.14105 -10.91734,4.14105 -15.05839,0 l -32.62651,-32.62651 -32.6265,32.62651 c -4.14105,4.14105 -10.91733,4.14105 -15.05839,0 l -25.09731,-25.09732 c -4.14106,-4.14105 -4.14106,-10.91733 0,-15.05839 l 32.6265,-32.6265 -32.6265,-32.6265 c -4.14105,-4.14105 -4.14105,-10.91733 1e-5,-15.05838 l 25.09731,-25.097317 c 4.14106,-4.141058 10.91733,-4.141058 15.05838,-5e-6 l 32.6265,32.626502 32.62651,-32.626502 c 4.14105,-4.141058 10.91733,-4.141058 15.05839,0 l 25.09731,25.097312 c 4.14106,4.14106 4.14106,10.91733 0,15.05839 l -32.6265,32.6265 32.6265,32.6265 c 4.14106,4.14106 4.14106,10.91734 0,15.05839 z m 72.7822,158.11306 c -16.62697,-16.62697 -16.62697,-43.60658 0,-60.23355 16.62697,-16.62697 43.60657,-16.62697 60.23355,0 16.62696,16.62697 16.62696,43.60657 -10e-6,60.23354 -16.62697,16.62697 -43.60658,16.62698 -60.23354,1e-5 z m 100.38924,-1e-5 c -16.62696,-16.62696 -16.62697,-43.60657 0,-60.23354 16.62697,-16.62697 43.60659,-16.62697 60.23355,0 16.62697,16.62697 16.62697,43.60658 0,60.23354 -16.62697,16.62698 -43.60657,16.62698 -60.23355,0 z"
+     id="path2"
+     style="fill:#ffffff;stroke-width:0.887324" />
+</svg>
+<!--
+Font Awesome Free 5.2.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+-->
+
